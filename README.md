@@ -1,2 +1,2 @@
-# todo-list
+# TODO LIST
 A simple todo list website.
