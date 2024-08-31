@@ -21,5 +21,10 @@
         </div>
     </div>
     <script src="script.js"></script>
+    <script>
+        if (!window.indexedDB) {
+          alert("Sorry! Your browser does not support IndexedDB. TODOS will not be saved");
+        }
+    </script>
 </body>
 </html>
